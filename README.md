@@ -29,3 +29,7 @@ You can use it directly by throwing it to the PATH position. | Releases |
 Also i append Android INTERNET permission default AndroidManifest.xml
 
 Enjoy..
+
+<img src="https://github.com/raifpy/fynemode/blob/main/resource/fyneMode.png">
+<img src="https://github.com/raifpy/fynemode/blob/main/resource/r.png">
+<img src="https://github.com/raifpy/fynemode/blob/main/resource/r2.png">
