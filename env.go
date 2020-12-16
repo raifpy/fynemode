@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"fyne.io/fyne"
-	"fyne.io/fyne/cmd/fyne/commands"
+	"github.com/raifpy/fynemode/commands"
 
 	"github.com/lucor/goinfo"
 	"github.com/lucor/goinfo/format"

@@ -6,7 +6,7 @@ import (
 	"runtime/debug"
 
 	"fyne.io/fyne"
-	"fyne.io/fyne/cmd/fyne/commands"
+	"github.com/raifpy/fynemode/commands"
 )
 
 // Declare conformity to command interface

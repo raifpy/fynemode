@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"fyne.io/fyne"
-	"fyne.io/fyne/cmd/fyne/commands"
+	"github.com/raifpy/fynemode/commands"
 )
 
 var commandList []idCommandPair
