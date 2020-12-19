@@ -2,7 +2,7 @@
 
 Compile go codes (c-shared):
 
-    go build -ldflags="-w -s" -buildmode="c-shared" -o /tmp/xxxxxxx/libxxx.so
+    env GOARCH=arm64 go build -ldflags="-w -s" -buildmode="c-shared" -o /tmp/xxxxxxx/libxxx.so
   
 add run perm library(chmod +x):
 
